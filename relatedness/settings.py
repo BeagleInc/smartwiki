@@ -26,7 +26,7 @@ SECRET_KEY = 'n-_00ifx$wfz#mf**nl)z0dwk073nila))845r%5soa7kbn5_y'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['api.research.beagle.ai', '127.0.0.1']
+ALLOWED_HOSTS = ['api.research.beagle.ai', '127.0.0.1', 'smartwiki.ai', 'www.smartwiki.ai']
 
 
 # Application definition
